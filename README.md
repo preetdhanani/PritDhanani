@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vaibhav Dangar
+## Hi there 👋 I'm Prit Dhanani
 
 # 💫 About Me:
 🔭 I’m currently working on Data science <br>👯 I’m looking to collaborate on ML community <br>🌱 I’m currently learning Machine learning, Deep learning, Generative AI, LLM ,AWS<br>💬 Ask me about Data Science/Machine learning <br>⚡ Fun fact - I'm funny 

@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Prit Dhanani
 
 # 💫 About Me:
-🔭 I enjoy working with Artificial intelligence <br>👯 I’m looking to collaborate on ML/AI community <br>🌱 I’m currently learning Machine learning, Deep learning, Generative AI, LLM ,AWS<br>💬 Ask me about Data Science/Machine learning <br>⚡ Fun fact - My jokes are like AI algorithms !!!!
+🔭 I enjoy working with Artificial intelligence <br>👯 I’m looking to collaborate on ML/AI community <br>🌱 I’m currently learning Machine learning, Deep learning, Generative AI, LLM ,AWS<br>💬 Ask me about Data Science/Machine learning/Artificial intelligence/GenerativeAI <br>⚡ Fun fact - My jokes are like AI algorithms !!!!
 
 
 ## 🌐 Socials:

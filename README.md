@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I enjoy working with Artificial intelligence <br>👯 I’m looking to collaborate on ML/AI community <br>🌱 I’m currently learning Machine learning, Deep learning, Generative AI, LLM ,AWS<br>💬 Ask me about Data Science/Machine learning/Artificial intelligence/GenerativeAI <br>⚡ Fun fact - My jokes are like AI algorithms !!!!
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalk612&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prit-dhanani/) 
